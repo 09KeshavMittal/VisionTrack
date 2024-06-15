@@ -1,8 +1,8 @@
-VisionTrack:
+<h2>VisionTrack:</h2>
 ![dashboard](https://github.com/09KeshavMittal/project/assets/98329358/df4908ab-9ce4-4f5a-9425-29d266c62fd2)
 
-<h3> RailwayCheck: A Computer Vision Solution for Railway Station Safety and Cleanliness </h3>
-RailwayCheck is a cutting-edge computer vision project aimed at improving the safety and hygiene of railway stations. Utilizing the advanced capabilities of the YOLOv8 model (YOLO version 8, large), RailwayCheck offers a robust and efficient solution for monitoring and managing crowd density and cleanliness. Below are the key features and technical details of the project:
+<h3> VisionTrack: A Computer Vision Solution for Railway Station Safety and Cleanliness </h3>
+VisionTrack is a cutting-edge computer vision project aimed at improving the safety and hygiene of railway stations. Utilizing the advanced capabilities of the YOLOv8 model (YOLO version 8, large), VisionTrack offers a robust and efficient solution for monitoring and managing crowd density and cleanliness. Below are the key features and technical details of the project:
 Key Features:
 
 ### 1.	Overcrowding Detection:
