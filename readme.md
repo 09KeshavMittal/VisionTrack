@@ -1,5 +1,5 @@
 <h2>VisionTrack:🚉🧹👥</h2>
-![dashboard](https://github.com/09KeshavMittal/VisionTrack/assets/98329358/f4ffb438-a9b4-4df5-b8b8-f17ae466b6d1)
+![dashboard](https://github.com/09KeshavMittal/VisionTrack/dashboard.jpg)
 
 <h3> VisionTrack: A Computer Vision Solution for Railway Station Safety and Cleanliness </h3>
 VisionTrack is a cutting-edge computer vision project aimed at improving the safety and hygiene of railway stations. Utilizing the advanced capabilities of the YOLOv8 model (YOLO version 8, large), VisionTrack offers a robust and efficient solution for monitoring and managing crowd density and cleanliness. Below are the key features and technical details of the project:
