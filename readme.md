@@ -1,5 +1,5 @@
 <h2>VisionTrack:🚉🧹👥</h2>
-![dashboard](https://github.com/09KeshavMittal/VisionTrack/assets/98329358/97f43df8-c609-477d-a681-99149d6c97ba)
+![dashboard](https://github.com/09KeshavMittal/VisionTrack/blob/main/dashboard.jpg)
 
 
 <h3> VisionTrack: A Computer Vision Solution for Railway Station Safety and Cleanliness </h3>
